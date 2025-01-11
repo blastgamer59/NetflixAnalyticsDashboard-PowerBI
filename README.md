@@ -1,1 +1,2 @@
 # NetflixAnalyticsDashboard-PowerBI
+"Developed an interactive Netflix Analytics Dashboard From 2008 to 2021 using Power BI. Utilized DAX for advanced calculations, Power Query for data transformation, and implemented best practices for data visualization and performance optimization. This project demonstrated my expertise in data modeling, business intelligence, and dashboard design to support data-driven decision-making."
